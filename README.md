@@ -1,4 +1,3 @@
-# Handwritten-Digits-Classification-Using-Na-ve-Bayes
 Handwritten digits classification has been treated as a multi-class classification problem
 in the machine learning context, where each of the ten digits (0–9) is viewed as a class and
 the machine learning task is essentially to train a classifier that can effectively
